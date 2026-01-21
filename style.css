@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+
+/* This is what contains the content and centers it in the middle of the page */
 .container {
     max-width: 1150px;
     margin: auto;
